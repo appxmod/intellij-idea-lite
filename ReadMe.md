@@ -8,7 +8,7 @@
 - run pane remove print button to make room for clear button.
 - run pane add "Scroll To End" context menu.
 - run pane auto restore find toolbar and restore search term.
-- better tab drag-and-sort, will need more distance to drag out.
+- better drag-and-sort for tabbar, will need more distance to drag out.
 - alter drag out bottom panes effect from floating mode to maximized windowed mode.
 - fix intellij toolwindow maximize not working for windowed mode.
 - use right-click-drag on the line number margin to resize tool windows (Projects, Structure panes etc).
