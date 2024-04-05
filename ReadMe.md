@@ -5,14 +5,14 @@
 - better context menu, fold close and split menus, and unfold Show In Explorer
 - fix navigation bar only shows the file name When focus is moved to the find toolbar
 - better navigation bar color, highlight package name
-- run pane remove print button to make room for clear button.
-- run pane add "Scroll To End" context menu.
-- run pane auto restore find toolbar and restore search term.
-- better drag-and-sort for tabbar, will need more distance to drag out.
+- run pane Remove print button, make room for clear button.
+- run pane Add "Scroll To End" context menu.
+- run pane Auto restore find toolbar and restore search term.
+- better drag-and-sort on tabbar, will need more distance to drag out.
 - alter drag out bottom panes effect from floating mode to maximized windowed mode.
 - fix intellij toolwindow maximize not working for windowed mode.
 - use right-click-drag on the line number margin to resize tool windows (Projects, Structure panes etc).
-- prevent jump to first error after build failed If current caret is near the error line +- 2 or If has selection.
+- prevent jumping to first error after build failed If current caret is near the error line +- 2 or If has selection.
 - todo ...
 
 
